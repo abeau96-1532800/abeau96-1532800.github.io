@@ -7,7 +7,9 @@ p2 {
     font-family: monospace
 }
 
-p.dotted {border-style: dotted;}
+p.dotted {
+    border-style: dotted;
+}
 
 .img2 {
     float: right;
